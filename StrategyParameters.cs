@@ -9,7 +9,7 @@
         private int theMinVariableSchedule = 7;
         private int theMaxVariableSchedule = 13;
 
-        public float theFixedIncentiveRatio = (float)1.0;
+        public float theFixedIncentiveRatio = (float)0.2;
 
         internal virtual int computeVariableSchedule()
         {
@@ -23,7 +23,7 @@
 
         internal virtual float computeVariableIncentive(int errors)
         {
-            return (float)(errors * MathHelper.NextDouble);
+            return (float)(errors * MathHelper.NextDouble * theFixedIncentiveRatio * 2);
         }
     }
 

@@ -28,3 +28,18 @@ C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\com.glups.Reward\obj\Debug\net7.0
 C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.pdb
 C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.genruntimeconfig.cache
 C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\com.glups.Reward\obj\Debug\net7.0\ref\com.glups.Reward.dll
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\bin\Debug\net7.0\com.glups.Reward.exe
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\bin\Debug\net7.0\com.glups.Reward.deps.json
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\bin\Debug\net7.0\com.glups.Reward.runtimeconfig.json
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\bin\Debug\net7.0\com.glups.Reward.dll
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\bin\Debug\net7.0\com.glups.Reward.pdb
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.csproj.AssemblyReference.cache
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.AssemblyInfoInputs.cache
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.AssemblyInfo.cs
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.csproj.CoreCompileInputs.cache
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.dll
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\refint\com.glups.Reward.dll
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.pdb
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\com.glups.Reward.genruntimeconfig.cache
+C:\Users\ah-ma\Desktop\Samashi\Studying\S6\PFE\GLUPS Reward Engine\com.glups.Reward\obj\Debug\net7.0\ref\com.glups.Reward.dll

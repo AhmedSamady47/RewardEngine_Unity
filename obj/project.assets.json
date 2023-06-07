@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\com.glups.Reward\\com.glups.Reward.csproj",
+      "projectUniqueName": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\GLUPS Reward Engine\\com.glups.Reward\\com.glups.Reward.csproj",
       "projectName": "com.glups.Reward",
-      "projectPath": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\com.glups.Reward\\com.glups.Reward.csproj",
+      "projectPath": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\GLUPS Reward Engine\\com.glups.Reward\\com.glups.Reward.csproj",
       "packagesPath": "C:\\Users\\ah-ma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\com.glups.Reward\\obj\\",
+      "outputPath": "C:\\Users\\ah-ma\\Desktop\\Samashi\\Studying\\S6\\PFE\\GLUPS Reward Engine\\com.glups.Reward\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ah-ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
