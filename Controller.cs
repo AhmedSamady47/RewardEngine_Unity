@@ -26,7 +26,7 @@ namespace com.glups.Reward
         {
             _model.openLevel(level);
 
-            _currentStrategy = _VIS;
+            _currentStrategy = _FIS;
         }
 
         internal virtual void traceModel(int date, int playerID)
@@ -86,5 +86,4 @@ namespace com.glups.Reward
             }
         }
     }
-
 }
